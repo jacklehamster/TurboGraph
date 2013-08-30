@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.dobuki.TurboGraph"/>
+    <classEntry path="com.dobuki.CacheSprite"/>
+    <classEntry path="com.dobuki.CacheBox"/>
+    <classEntry path="com.dobuki.ITopMost"/>
+    <classEntry path="com.dobuki.ICacheable"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
